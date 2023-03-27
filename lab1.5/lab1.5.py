@@ -11,4 +11,3 @@ for current_file in glob.glob(r"E:/Learning/seafiles/store/Seafile/My library/p4
 
 for i in set_of_ip:
     print(i)
-
